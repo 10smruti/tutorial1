@@ -1,5 +1,1 @@
-Hello  is my first repository.
-
-fghj
-dfghjkl
-dfghj
+Hello this is my first repository.
